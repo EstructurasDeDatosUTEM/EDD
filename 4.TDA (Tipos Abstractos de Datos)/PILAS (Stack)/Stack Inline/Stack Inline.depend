@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1509388738 source:c:\users\dabits\desktop\utem\codigo fuente\stack inline\main.cpp
+	<iostream>
+	"Stack.h"
+
+1509388344 c:\users\dabits\desktop\utem\codigo fuente\stack inline\include\stack.h
+
+1509388871 source:c:\users\dabits\desktop\utem\codigo fuente\stack inline\src\stack.cpp
+	"Stack.h"
+
+1509388837 source:c:\users\dabits\desktop\utem\codigo fuente\stack inline\src\queue.cpp
+	"Queue.h"
+
+1509388837 c:\users\dabits\desktop\utem\codigo fuente\stack inline\include\queue.h
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\david castro\desktop\utem\codigogithub\tda\clasecola\main.cpp
+	<iostream>
+
+1534385430 source:c:\users\david castro\desktop\utem\codigogithub\tda\colas (queue)\clasecola\include\clasecola.h
+	<queue>
+
