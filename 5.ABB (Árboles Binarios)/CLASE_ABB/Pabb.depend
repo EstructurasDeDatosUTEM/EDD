@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1446658609 source:c:\users\profesores\desktop\edd\pabb\main.cpp
+	<iostream>
+	"ABB.h"
+
+1446581308 c:\users\profesores\desktop\edd\pabb\include\abb.h
+
+1446581308 source:c:\users\profesores\desktop\edd\pabb\src\abb.cpp
+	<iostream>
+	"ABB.h"
+
